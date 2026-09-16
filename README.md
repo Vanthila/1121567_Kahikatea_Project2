@@ -12,6 +12,6 @@ commonly grows in lowland swamp forests.
 • Instructions to download the dataset: You can download the dataset with this link: 
 https://datasets.cms.waikato.ac.nz/taiao/kahikatea/
 • Installation instructions  
-• Required Python packages  
+• Required Python packages: please check requirements.txt  
 • Instructions for running the notebook  
-• Summary of key findings 
+• Summary of key findings: I identified a model that helps to classify the images and it is a CNN model, however I am also aware that the small dataset might be a hinder to find the model with high accuracy. Sophiticated model such as Resnet and Efficientnet probably would need a bigger dataset for they to work well. So depending on the dataset, different model might work better than other models. 
